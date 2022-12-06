@@ -1,2 +1,2 @@
-# team7826.github.com
+# FRC-Team-7826.github.io
 Wow, we have a website now!
