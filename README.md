@@ -1,2 +1,2 @@
 # team7826.github.com
-Team 7826's website
+Wow, we have a website now!
