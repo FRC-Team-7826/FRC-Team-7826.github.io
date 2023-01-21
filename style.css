@@ -19,6 +19,10 @@ h2 {
     font-weight: normal;
 }
 
+hr {
+    background-color: #0e0e0e;
+}
+
 #explore {
     display: block;
     width: 80%;
