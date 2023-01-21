@@ -5,6 +5,7 @@ html, body {
     font-family: sans-serif;
     background-color: #181818;
     color: #aaaaaa;
+    min-height: 100%;
 }
 
 body {
@@ -37,6 +38,7 @@ hr {
     background-color: rgba(63, 63, 63, 0.2);
     border-radius: 12px;
     box-shadow: 4px 4px 4px 4px black;
+    background-color: #181818;
 }
 
 #explore a {
