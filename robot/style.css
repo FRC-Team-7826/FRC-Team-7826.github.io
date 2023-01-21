@@ -31,7 +31,7 @@ hr {
     background-color: #0e0e0e;
 }
 
-#explore {
+div {
     display: block;
     width: 80%;
     margin-left: auto;
@@ -43,7 +43,7 @@ hr {
     background-color: #181818;
 }
 
-#explore a {
+div a {
     display: block;
     color: rgb(49, 49, 255);
     text-decoration: none;
@@ -52,6 +52,6 @@ hr {
     transition: .2s;
 }
 
-#explore a:hover {
+div a:hover {
     color: rgb(8, 8, 255);
 }
