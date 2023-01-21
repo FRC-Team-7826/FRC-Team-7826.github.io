@@ -42,10 +42,9 @@ hr {
     margin-left: auto;
     margin-right: auto;
     text-align: center;
-    background-color: rgba(63, 63, 63, 0.2);
     border-radius: 12px;
     box-shadow: 4px 4px 4px 4px black;
-    background-color: #181818;
+    background-color: #18181845;
 }
 
 #explore a {
