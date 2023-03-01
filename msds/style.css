@@ -59,8 +59,8 @@ div a {
 div ul a {
     font-size: unset;
     font-weight: normal;
-    margin: 0;
-    padding: 0;
+    margin: 1px;
+    padding: 1px;
     text-align: left;
 }
 
