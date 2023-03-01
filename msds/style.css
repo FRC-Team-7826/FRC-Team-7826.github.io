@@ -67,3 +67,7 @@ div ul a {
 div a:hover {
     color: rgb(172, 19, 24);
 }
+
+ul {
+    margin: 2px;
+}
