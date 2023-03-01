@@ -69,5 +69,10 @@ div a:hover {
 }
 
 ul {
-    margin: 2px;
+    margin-bottom: 8px;
+}
+
+p {
+    margin-top: 8px;
+    margin-bottom: 8px;
 }
