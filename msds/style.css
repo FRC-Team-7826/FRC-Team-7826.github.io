@@ -56,6 +56,11 @@ div a {
     transition: .2s;
 }
 
+div p a {
+    font-size: unset;
+    font-weight: normal;
+}
+
 div a:hover {
-    color: rgb(235,28,36);
+    color: rgb(172, 19, 24);
 }
