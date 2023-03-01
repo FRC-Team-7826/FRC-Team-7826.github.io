@@ -59,6 +59,9 @@ div a {
 div p a {
     font-size: unset;
     font-weight: normal;
+    margin: 0;
+    padding: 0;
+    text-align: left;
 }
 
 div a:hover {
