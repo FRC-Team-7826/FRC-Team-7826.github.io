@@ -50,7 +50,7 @@ div {
 
 div a {
     display: block;
-    color: rgb(49, 49, 255);
+    color: rgb(235,28,36);
     text-decoration: none;
     font-size: 30px;
     font-weight: bold;
@@ -58,5 +58,5 @@ div a {
 }
 
 div a:hover {
-    color: rgb(8, 8, 255);
+    color: rgb(235,28,36);
 }
